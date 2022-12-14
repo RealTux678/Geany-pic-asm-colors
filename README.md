@@ -15,3 +15,6 @@ Important : definitions must be lowercase and in one line.
 Provides a theme similar to legacy MPLAB IDE.
 
 MPLAB.conf file should be copied to the "colorschemes" subfolder of the Geany configuration folder.
+
+
+![alt text](https://github.com/RealTux678/Geany-pic-asm-colors/blob/main/preview.png?raw=true)
